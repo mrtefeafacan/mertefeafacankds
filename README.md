@@ -29,3 +29,7 @@ Proje kapsamında sunucu tarafında veri tutarlılığını sağlamak için öze
 ## 📂 Proje Klasör Yapısı (MVC)
 
 Proje, sürdürülebilirlik ve modülerlik esas alınarak yapılandırılmıştır:
+
+## 📊 Veritabanı Tasarımı (ER Diyagramı)
+
+![Veritabanı ER Diyagramı](mermaid-diagram-2026-01-11-172222.png)
